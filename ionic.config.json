@@ -1,5 +1,7 @@
 {
   "name": "ionic-file-upload",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
